@@ -12,3 +12,4 @@ c:\Users\Owner\Desktop\Comp Sci\C#\SectionFour\SectionFourNotes\obj\Debug\net8.0
 c:\Users\Owner\Desktop\Comp Sci\C#\SectionFour\SectionFourNotes\obj\Debug\net8.0\SectionFourNotes.pdb
 c:\Users\Owner\Desktop\Comp Sci\C#\SectionFour\SectionFourNotes\obj\Debug\net8.0\SectionFourNotes.genruntimeconfig.cache
 c:\Users\Owner\Desktop\Comp Sci\C#\SectionFour\SectionFourNotes\obj\Debug\net8.0\ref\SectionFourNotes.dll
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFour\SectionFourNotes\obj\Debug\net8.0\SectionFourNotes.sourcelink.json
